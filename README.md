@@ -1,6 +1,12 @@
 SWFUpload (Maintained for Security Fixes)
 =========================================
 
+> This is just a fork of the fork of the origin [SWFUpload project](https://code.google.com/p/swfupload/) for bower release.
+
+```sh
+$ bower i swfupload --save
+```
+
 This is a fork of the long-abandoned [SWFUpload project](https://code.google.com/p/swfupload/), maintained by WordPress and others to ensure that a secure version of SWFUpload exists.
 
 **We strongly suggest you do not use SWFUpload. But if you must, use this fork.**
