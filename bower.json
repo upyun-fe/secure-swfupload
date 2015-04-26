@@ -1,0 +1,23 @@
+{
+  "name": "swfupload",
+  "version": "2.2.2",
+  "homepage": "https://github.com/upyun-fe/secure-swfupload",
+  "authors": [
+    "Leigh Zhu <i@zhuli.me>"
+  ],
+  "description": "bower fork of the swfupload",
+  "main": "dist/swfupload.js",
+  "keywords": [
+    "swfupload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "core",
+    "samples"
+  ]
+}
